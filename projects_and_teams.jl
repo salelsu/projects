@@ -497,7 +497,7 @@ and add it to project.
 		),
 		Solution(
 			"https://github.com/223323/mp3player",
-			"??",
+			"https://www.youtube.com/watch?v=iBDg16AzZVY&feature=youtu.be",
 			"??",
 			"??"
 		),
